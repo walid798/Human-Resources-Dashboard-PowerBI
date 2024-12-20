@@ -65,3 +65,5 @@ The project aims to:
    - Data Cleaning: Performed using Power Query for consistent and reliable analysis.
 
 
+# Contributions
+Contributions, feedback, and suggestions are welcome! Feel free to fork this repository, submit issues, or create pull requests.
